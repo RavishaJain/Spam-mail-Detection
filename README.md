@@ -3,6 +3,7 @@ To check this Spam Classification app you can go to: https://spam-mail-detection
 
 **Project Title: Email/SMS Spam Classifier
 **
+
 Purpose:
 To develop a user-friendly web application that accurately identifies spam emails and text messages.
 To empower users to quickly filter out unwanted and potentially harmful spam messages.
